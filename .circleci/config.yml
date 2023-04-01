@@ -16,7 +16,7 @@ jobs:
       - checkout
       - run:
           name: "Say hello"
-          command: "echo Hello, Ravikumar , This is my first CircleCI Project !"
+          command: "echo Hello, Ravikumar , This is my first CircleCI Project!"
 
 # Orchestrate jobs using workflows
 # See: https://circleci.com/docs/configuration-reference/#workflows
